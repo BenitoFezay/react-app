@@ -14,8 +14,11 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          style={{
+            color:"green",
+          }}
         >
-          Learn React
+          Learn DevOps with React
         </a>
       </header>
     </div>
